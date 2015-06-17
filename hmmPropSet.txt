@@ -1,0 +1,31 @@
+ levelQty=0 coolDownDelay=0 ignorePartExecs=false levels=  followLimit.activate=true posStr=BEST-2 depthCheckPeriod=1000 followLimit.type=NORMAL polisher.defaultPrice=normal polisher.reachNormalLimit=ignore polisher.reachWideLimit=ignore allowTheoOutsideSpread=true
+
+
+
+20150616
+
+
+1506c5200
+1506c5350
+
+
+1506p5200
+1506p5350
+
+
+
+levelQty=10 levels=1,1,1 levelSize=3,3,3 ignorePartExecs=false coolDownDelay=10000 followLimit.activate=true posStr=BEST-1 depthCheckPeriod=500 followLimit.type=NORMAL polisher.defaultPrice=normal polisher.reachNormalLimit=ignore polisher.reachWideLimit=ignore allowTheoOutsideSpread=true`
+
+
+
+levelQty=5 levels=1,2,10 levelSize=3,3,3 ignorePartExecs=false coolDownDelay=10000 followLimit.activate=true posStr=BEST-3 depthCheckPeriod=500 followLimit.type=NORMAL polisher.defaultPrice=normal polisher.reachNormalLimit=ignore polisher.reachWideLimit=ignore allowTheoOutsideSpread=true
+
+levelQty=5 levels=1,2,10 levelSize=3,3,3 ignorePartExecs=false coolDownDelay=100000 followLimit.activate=true posStr=BEST-3 depthCheckPeriod=500 followLimit.type=NORMAL polisher.defaultPrice=normal polisher.reachNormalLimit=ignore polisher.reachWideLimit=ignore allowTheoOutsideSpread=true
+
+levelQty=5 levels=1,5,10 levelSize=3,3,3 ignorePartExecs=false coolDownDelay=60000 followLimit.activate=true posStr=BEST-2 depthCheckPeriod=1000 followLimit.type=NORMAL polisher.defaultPrice=normal polisher.reachNormalLimit=ignore polisher.reachWideLimit=ignore allowTheoOutsideSpread=true
+
+
+levelQty=10 levels=1,5,5 levelSize=3,3,3 ignorePartExecs=false coolDownDelay=60000 followLimit.activate=true posStr=BEST-2 depthCheckPeriod=1000 followLimit.type=NORMAL polisher.defaultPrice=normal polisher.reachNormalLimit=ignore polisher.reachWideLimit=ignore allowTheoOutsideSpread=true
+
+
+ existing positions
